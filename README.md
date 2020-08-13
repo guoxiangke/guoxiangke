@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there , I am Dale👋
 
-<!--
-**guoxiangke/guoxiangke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Husband, Father, Developer!
+- 🔭 I’m currently working at home!
+- 🌱 I’m currently learning TS, Nuxt,js 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=guoxiangke&show_icons=true&hide_border=true" />
